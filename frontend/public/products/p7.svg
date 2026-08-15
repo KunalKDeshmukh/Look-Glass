@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Structured Tote">
+  <defs>
+    <filter id="shadow-p7" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.2" result="blur" />
+      <feOffset in="blur" dx="1.2" dy="2.4" result="offsetBlur" />
+      <feComponentTransfer in="offsetBlur" result="shadow">
+        <feFuncA type="linear" slope="0.22" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="shadow" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <ellipse cx="50" cy="92" rx="26" ry="3.2" fill="#655031" opacity="0.12" />
+  <g filter="url(#shadow-p7)">
+    <path d="M26 38 Q26 18 50 18 Q74 18 74 38 M22 38 L78 38 L74 84 L26 84 Z" fill="#B8935A" fill-opacity="0.16" stroke="#655031" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M22 50 L78 50" fill="none" stroke="#655031" stroke-width="0.9" stroke-linecap="round" opacity="0.55" /><path d="M40 38 L40 84" fill="none" stroke="#655031" stroke-width="0.9" stroke-linecap="round" opacity="0.55" /><path d="M60 38 L60 84" fill="none" stroke="#655031" stroke-width="0.9" stroke-linecap="round" opacity="0.55" />
+  </g>
+</svg>

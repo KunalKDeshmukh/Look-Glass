@@ -1,0 +1,402 @@
+[
+  {
+    "id": "p1",
+    "name": "Ecru Column Slip",
+    "category": "dress",
+    "price": 228,
+    "colorway": "Bone",
+    "tags": [
+      "minimal",
+      "evening",
+      "silk"
+    ],
+    "occasion": "Evening",
+    "description": "A bias-cut silk column dress that skims rather than clings \u2014 the quiet option for a loud room.",
+    "rating": 4.7,
+    "reviewCount": 3,
+    "image": "/products/p1.svg"
+  },
+  {
+    "id": "p2",
+    "name": "Ink Wool Blazer",
+    "category": "jacket",
+    "price": 340,
+    "colorway": "Ink",
+    "tags": [
+      "tailored",
+      "office",
+      "wool"
+    ],
+    "occasion": "Office",
+    "description": "Structured shoulder, single button, Italian wool \u2014 the blazer that ends the 'what do I wear' debate.",
+    "rating": 4.8,
+    "reviewCount": 5,
+    "image": "/products/p2.svg"
+  },
+  {
+    "id": "p3",
+    "name": "Brass Pleat Trouser",
+    "category": "bottoms",
+    "price": 180,
+    "colorway": "Brass",
+    "tags": [
+      "tailored",
+      "office"
+    ],
+    "occasion": "Office",
+    "description": "High-waisted pleat front trouser in a warm brass twill, cut to sit clean through the hip.",
+    "rating": 4.5,
+    "reviewCount": 2,
+    "image": "/products/p3.svg"
+  },
+  {
+    "id": "p4",
+    "name": "Dusk Knit Top",
+    "category": "top",
+    "price": 96,
+    "colorway": "Violet",
+    "tags": [
+      "casual",
+      "knit"
+    ],
+    "occasion": "Everyday",
+    "description": "Fine-gauge knit in dusk violet with a soft funnel neck \u2014 layers under everything, holds its own alone.",
+    "rating": 4.6,
+    "reviewCount": 4,
+    "image": "/products/p4.svg"
+  },
+  {
+    "id": "p5",
+    "name": "Bone Trench",
+    "category": "jacket",
+    "price": 410,
+    "colorway": "Bone",
+    "tags": [
+      "outerwear",
+      "classic"
+    ],
+    "occasion": "Everyday",
+    "description": "The trench you inherit instead of replace \u2014 storm flap, belt, cotton gabardine.",
+    "rating": 4.9,
+    "reviewCount": 6,
+    "image": "/products/p5.svg"
+  },
+  {
+    "id": "p6",
+    "name": "Violet Slip Dress",
+    "category": "dress",
+    "price": 265,
+    "colorway": "Violet",
+    "tags": [
+      "evening",
+      "silk",
+      "date"
+    ],
+    "occasion": "Evening",
+    "description": "Deep violet silk charmeuse cut on the bias \u2014 one strap adjustment and it fits like it was made for you.",
+    "rating": 4.7,
+    "reviewCount": 3,
+    "image": "/products/p6.svg"
+  },
+  {
+    "id": "p7",
+    "name": "Structured Tote",
+    "category": "bag",
+    "price": 150,
+    "colorway": "Brass",
+    "tags": [
+      "leather",
+      "work"
+    ],
+    "occasion": "Everyday",
+    "description": "Vegetable-tanned leather tote, structured enough for a laptop, soft enough to not look like it.",
+    "rating": 4.4,
+    "reviewCount": 2,
+    "image": "/products/p7.svg"
+  },
+  {
+    "id": "p8",
+    "name": "Ink Ankle Boot",
+    "category": "shoes",
+    "price": 220,
+    "colorway": "Ink",
+    "tags": [
+      "leather",
+      "classic"
+    ],
+    "occasion": "Everyday",
+    "description": "Block heel, square toe, ink leather \u2014 built for pavement, reads as polished.",
+    "rating": 4.6,
+    "reviewCount": 5,
+    "image": "/products/p8.svg"
+  },
+  {
+    "id": "p9",
+    "name": "Bone Poplin Shirt",
+    "category": "top",
+    "price": 110,
+    "colorway": "Bone",
+    "tags": [
+      "office",
+      "cotton"
+    ],
+    "occasion": "Office",
+    "description": "Crisp cotton poplin with a clean point collar \u2014 the shirt every other shirt is measured against.",
+    "rating": 4.5,
+    "reviewCount": 4,
+    "image": "/products/p9.svg"
+  },
+  {
+    "id": "p10",
+    "name": "Brass Hoop Earring",
+    "category": "accessory",
+    "price": 58,
+    "colorway": "Brass",
+    "tags": [
+      "jewelry",
+      "evening"
+    ],
+    "occasion": "Evening",
+    "description": "Hand-finished brass hoops, weighted to sit flat and catch the light without trying.",
+    "rating": 4.8,
+    "reviewCount": 3,
+    "image": "/products/p10.svg"
+  },
+  {
+    "id": "p11",
+    "name": "Wide-Leg Denim",
+    "category": "bottoms",
+    "price": 140,
+    "colorway": "Ink",
+    "tags": [
+      "casual",
+      "denim"
+    ],
+    "occasion": "Everyday",
+    "description": "Rigid ink denim, wide through the leg, high on the waist \u2014 one wash softens it into a favorite.",
+    "rating": 4.6,
+    "reviewCount": 7,
+    "image": "/products/p11.svg"
+  },
+  {
+    "id": "p12",
+    "name": "Violet Satin Cami",
+    "category": "top",
+    "price": 84,
+    "colorway": "Violet",
+    "tags": [
+      "evening",
+      "silk"
+    ],
+    "occasion": "Evening",
+    "description": "Satin cami cut close, thin straps, a single seam down the back \u2014 deceptively simple.",
+    "rating": 4.3,
+    "reviewCount": 2,
+    "image": "/products/p12.svg"
+  },
+  {
+    "id": "p13",
+    "name": "Bone Leather Sandal",
+    "category": "shoes",
+    "price": 175,
+    "colorway": "Bone",
+    "tags": [
+      "summer",
+      "leather"
+    ],
+    "occasion": "Everyday",
+    "description": "A single leather strap, a low block heel, bone tan that pairs with almost anything.",
+    "rating": 4.5,
+    "reviewCount": 3,
+    "image": "/products/p13.svg"
+  },
+  {
+    "id": "p14",
+    "name": "Ink Crepe Midi",
+    "category": "dress",
+    "price": 255,
+    "colorway": "Ink",
+    "tags": [
+      "office",
+      "tailored"
+    ],
+    "occasion": "Office",
+    "description": "Matte crepe midi with a covered placket \u2014 moves like it was cut for a body, not a mannequin.",
+    "rating": 4.7,
+    "reviewCount": 4,
+    "image": "/products/p14.svg"
+  },
+  {
+    "id": "p15",
+    "name": "Brass Statement Necklace",
+    "category": "accessory",
+    "price": 72,
+    "colorway": "Brass",
+    "tags": [
+      "jewelry",
+      "evening"
+    ],
+    "occasion": "Evening",
+    "description": "A single sculptural brass link, heavy enough to anchor a plain neckline on its own.",
+    "rating": 4.6,
+    "reviewCount": 2,
+    "image": "/products/p15.svg"
+  },
+  {
+    "id": "p16",
+    "name": "Dusk Puffer",
+    "category": "jacket",
+    "price": 290,
+    "colorway": "Violet",
+    "tags": [
+      "outerwear",
+      "casual",
+      "winter"
+    ],
+    "occasion": "Everyday",
+    "description": "Matte violet puffer, baffled not quilted, cut long enough to actually keep you warm.",
+    "rating": 4.8,
+    "reviewCount": 5,
+    "image": "/products/p16.svg"
+  },
+  {
+    "id": "p17",
+    "name": "Maroon Banarasi Saree",
+    "category": "saree",
+    "price": 320,
+    "colorway": "Maroon",
+    "tags": [
+      "indian",
+      "silk",
+      "wedding",
+      "zari"
+    ],
+    "occasion": "Festive",
+    "description": "Handwoven Banarasi silk with a gold zari border \u2014 the saree that anchors a wedding wardrobe.",
+    "rating": 4.9,
+    "reviewCount": 4,
+    "image": "/products/p17.svg"
+  },
+  {
+    "id": "p18",
+    "name": "Ivory Kanjivaram Saree",
+    "category": "saree",
+    "price": 295,
+    "colorway": "Ivory",
+    "tags": [
+      "indian",
+      "silk",
+      "temple-border",
+      "wedding"
+    ],
+    "occasion": "Festive",
+    "description": "Pure mulberry silk Kanjivaram with a temple-motif border, woven in South India.",
+    "rating": 4.8,
+    "reviewCount": 3,
+    "image": "/products/p18.svg"
+  },
+  {
+    "id": "p19",
+    "name": "Sage Chikankari Kurta",
+    "category": "kurta",
+    "price": 88,
+    "colorway": "Sage",
+    "tags": [
+      "indian",
+      "cotton",
+      "hand-embroidered"
+    ],
+    "occasion": "Everyday",
+    "description": "Lucknowi chikankari hand-embroidery on breathable cotton \u2014 dressed-up without trying.",
+    "rating": 4.6,
+    "reviewCount": 5,
+    "image": "/products/p19.svg"
+  },
+  {
+    "id": "p20",
+    "name": "Ivory Anarkali Kurta Set",
+    "category": "kurta",
+    "price": 145,
+    "colorway": "Ivory",
+    "tags": [
+      "indian",
+      "festive",
+      "flared"
+    ],
+    "occasion": "Festive",
+    "description": "Floor-grazing Anarkali silhouette with a fitted yoke and matching churidar.",
+    "rating": 4.7,
+    "reviewCount": 3,
+    "image": "/products/p20.svg"
+  },
+  {
+    "id": "p21",
+    "name": "Emerald Silk Lehenga",
+    "category": "lehenga",
+    "price": 480,
+    "colorway": "Emerald",
+    "tags": [
+      "indian",
+      "silk",
+      "wedding",
+      "embroidered"
+    ],
+    "occasion": "Festive",
+    "description": "Raw silk lehenga with hand-placed sequin work and a matching dupatta \u2014 built for the dance floor.",
+    "rating": 4.9,
+    "reviewCount": 6,
+    "image": "/products/p21.svg"
+  },
+  {
+    "id": "p22",
+    "name": "Blush Mirror-Work Lehenga",
+    "category": "lehenga",
+    "price": 410,
+    "colorway": "Blush",
+    "tags": [
+      "indian",
+      "mirror-work",
+      "festive"
+    ],
+    "occasion": "Festive",
+    "description": "Rajasthani mirror-work on a soft blush base, light enough for a full night of sangeet.",
+    "rating": 4.7,
+    "reviewCount": 4,
+    "image": "/products/p22.svg"
+  },
+  {
+    "id": "p23",
+    "name": "Gold Bandhgala Sherwani",
+    "category": "sherwani",
+    "price": 385,
+    "colorway": "Gold",
+    "tags": [
+      "indian",
+      "wedding",
+      "groom",
+      "brocade"
+    ],
+    "occasion": "Festive",
+    "description": "Brocade bandhgala with a Nehru collar and covered buttons \u2014 formalwear with real presence.",
+    "rating": 4.8,
+    "reviewCount": 3,
+    "image": "/products/p23.svg"
+  },
+  {
+    "id": "p24",
+    "name": "Ink Nehru Jacket",
+    "category": "sherwani",
+    "price": 210,
+    "colorway": "Ink",
+    "tags": [
+      "indian",
+      "layering",
+      "festive"
+    ],
+    "occasion": "Festive",
+    "description": "A shorter, modern take on the bandhgala \u2014 layers over a plain kurta for instant polish.",
+    "rating": 4.5,
+    "reviewCount": 2,
+    "image": "/products/p24.svg"
+  }
+]
